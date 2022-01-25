@@ -1,0 +1,19 @@
+{
+  "name": "project-2022-01-express-ts-website",
+  "version": "1.0.0",
+  "description": "Express.JS 기반의 웹사이트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchaptered/22-01-express-ts-website.git"
+  },
+  "author": "unchaptered",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchaptered/22-01-express-ts-website/issues"
+  },
+  "homepage": "https://github.com/unchaptered/22-01-express-ts-website#readme"
+}
